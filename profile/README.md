@@ -39,4 +39,7 @@ im Browser angeben.
 
 ## Hilfe
 
-Wenn es Fragen gibt, einfach das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) schauen oder im Moodle die Dokumentationen lesen.
+Wenn es Fragen gibt, einfach:
+* Das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) schauen oder
+* Im Moodle die Dokumentationen lesen oder
+* Blocker auf [Jira](https://computermuseum-htw.atlassian.net/) erstellen.

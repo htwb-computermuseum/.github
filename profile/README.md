@@ -24,8 +24,8 @@ Optionale Software:
 ### Aufsetzen
 
 Es gibt zwei Möglichkeiten die Webseite zu installieren, die sind:
-* [Initialisierung mit Docker](../Documentation/docs/dashboard/docker.md)
-* [Initialisierung ohne Docker](../Documentation/docs/dashboard/setup-win-mac.md)
+* [Initialisierung mit Docker](https://github.com/htwb-computermuseum/Documentation/docs/dashboard/docker.md)
+* [Initialisierung ohne Docker](https://github.com/htwb-computermuseum/Documentation/docs/dashboard/setup-win-mac.md)
 
 ### Webseite laufen lassen
 
@@ -38,4 +38,4 @@ im Browser angeben.
 
 ## Hilfe
 
-Wenn es Fragen gibt, einfach das [Documentation Repository](../Documentation/docs) schauen oder im Moodle die Dokumentationen lesen.
+Wenn es Fragen gibt, einfach das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/docs) schauen oder im Moodle die Dokumentationen lesen.

@@ -1,7 +1,10 @@
 # Computermuseum
 
 Willkommen beim Computermuseum Projekt!
-![alt text](https://www.sammlungen.htw-berlin.de/computermuseum/thumb_gal_C64_01.png)
+![alt text](https://www.sammlungen.htw-berlin.de/computermuseum/thumb_gal_C64_01.png){: .right}
+.right {
+    float: right;
+}
 
 ## Beschreibung
 

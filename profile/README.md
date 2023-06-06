@@ -24,7 +24,18 @@ Optionale Software:
 
 ### Aufsetzen
 
-Es gibt zwei Möglichkeiten die Webseite zu installieren, die sind:
+Zuerst ```git clone``` von
+
+* [WebSeite Laravel](https://github.com/htwb-computermuseum/website-laravel.git)
+* [Database](https://github.com/htwb-computermuseum/database)
+
+Zusätzlich kann ```git clone``` von
+
+* [Images](https://github.com/htwb-computermuseum/images.git)
+
+gemacht werden, um die Bilder einsehen zu können. Es ist aber nicht dringend notwendig.
+
+Es gibt zwei Möglichkeiten die Webseite lokal zu installieren, die sind:
 * [Initialisierung mit Docker](https://github.com/htwb-computermuseum/Documentation/tree/master/docs/dashboard/docker.md)
 * [Initialisierung ohne Docker](https://github.com/htwb-computermuseum/Documentation/tree/master/docs/dashboard/setup-win-mac.md)
 

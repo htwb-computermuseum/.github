@@ -12,8 +12,8 @@ Die Geschichte des Rechnens, der Hilfsmittel und Methoden, ist so alt wie die Me
 Das Hauptrepository findet ihr unter [website-laravel](https://github.com/htwb-computermuseum/website-laravel)
 
 ## Wenn es Fragen gibt, einfach:
-* Die aktuelle Dokumentation findet ihr ebenfalls im Repo [website-laravel/docs](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs)
-* Im Moodle sind ebenfalls Dokumentationen von den (meisten) vorherigen Semestern vorhanden
+* Die aktuelle Dokumentation findet ihr im Repo [website-laravel/docs](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs)
+* Im Moodle sind Dokumentationen von den (meisten) vorherigen Semestern vorhanden
 * Das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) beinhaltet die **alte** Dokumentation vor ss2032
 
 

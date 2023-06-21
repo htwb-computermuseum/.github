@@ -9,48 +9,13 @@ Die Geschichte des Rechnens, der Hilfsmittel und Methoden, ist so alt wie die Me
 
 ## Wie kann ich starten?
 
-### Technologien
+Das Hauptrepository findet ihr unter [website-laravel](https://github.com/htwb-computermuseum/website-laravel)
 
-Folgende Software werden benötigt:
-* [PHP](https://www.php.net/)
-* [Git](https://www.php.net/)
-* [Composer](https://www.php.net/)
-* [npm](https://www.php.net/) oder [yarn](https://www.php.net/)
+## Wenn es Fragen gibt, einfach:
+* Die aktuelle Dokumentation findet ihr ebenfalls im Repo [website-laravel/docs](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs)
+* Im Moodle sind ebenfalls Dokumentationen von den (meisten) vorherigen Semestern vorhanden
+* Das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) beinhaltet die **alte** Dokumentation vor ss2032
 
-Optionale Software:
-* [Docker](https://www.docker.com/)
-* [PhpStorm](https://www.jetbrains.com/phpstorm/)
-* [Nmap](https://nmap.org/)
 
-### Aufsetzen
-
-Zuerst ```git clone``` von
-
-* [WebSeite Laravel](https://github.com/htwb-computermuseum/website-laravel.git)
-* [Database](https://github.com/htwb-computermuseum/database)
-
-Zusätzlich kann ```git clone``` von
-
-* [Images](https://github.com/htwb-computermuseum/images.git)
-
-gemacht werden, um die Bilder einsehen zu können. Es ist aber nicht dringend notwendig.
-
-Es gibt zwei Möglichkeiten die Webseite lokal zu installieren, die sind:
-* [Initialisierung mit Docker](https://github.com/htwb-computermuseum/Documentation/tree/master/docs/dashboard/docker.md)
-* [Initialisierung ohne Docker](https://github.com/htwb-computermuseum/Documentation/tree/master/docs/dashboard/setup-win-mac.md)
-
-### Webseite laufen lassen
-
-Wenn mit Docker installiert, dann erstmal Docker starten.
-Dann:
-```
-localhost:8000
-```
-im Browser angeben.
-
-## Hilfe
-
-Wenn es Fragen gibt, einfach:
-* Das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) schauen oder
-* Im Moodle die Dokumentationen lesen oder
-* Blocker auf [Jira](https://computermuseum-htw.atlassian.net/) erstellen.
+## Jira 
+* [Link](https://computermuseum-htw.atlassian.net/)

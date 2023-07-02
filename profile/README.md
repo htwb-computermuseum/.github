@@ -17,4 +17,5 @@ Das Hauptrepository findet ihr unter [website-laravel](https://github.com/htwb-c
 * Das [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs) beinhaltet die **alte** Dokumentation vor ss2032
 
 
-## [Jira](https://computermuseum-htw.atlassian.net/)
+## Jira
+Hier der [Link](https://computermuseum-htw.atlassian.net/) zu unserem Jira Board für das Computermuseum

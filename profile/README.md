@@ -27,6 +27,13 @@ Dies ist die Übersichtsseite des HTW Computermuseum Projekts. Hier findet Ihr a
 
 Damit man Zugriff auf diese Repositories hat, muss man Mitglied der [htwb-computermuseum-Organisation](https://github.com/htwb-computermuseum) auf GitHub sein.
 
+2. Ihr benötigt aßerdem noch folgende Dinge:
+
+- einen [GitHub-Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Corg-login%3E&source=header)
+- einen [Atlassian-Account](https://www.atlassian.com/de) (für Jira)
+- [Docker](https://docs.docker.com/get-docker/) (oder eine andere OCI-kompatible Container-Engine)
+- eine [JetBrains-Studentenlizenz](https://www.jetbrains.com/community/education/#students/) für [PhpStorm](https://www.jetbrains.com/phpstorm/) (empfohlen)
+
 ## Wenn es Fragen gibt, einfach:
 
 * Die aktuelle [Dokumentation](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs) des Projekts lesen

@@ -29,7 +29,7 @@ Damit man Zugriff auf diese Repositories hat, muss man Mitglied der [htwb-comput
 
 2. Ihr benötigt aßerdem noch folgende Dinge:
 
-- einen [GitHub-Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Corg-login%3E&source=header)
+- einen [GitHub-Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Corg-login%3E&source=header) und ein Grundverständnis wie man mit Git [arbeitet](https://docs.github.com/de#:~:text=npm-,Erste%20Schritte,-Einrichten%20von%20Git)
 - einen [Atlassian-Account](https://www.atlassian.com/de) (für Jira)
 - [Docker](https://docs.docker.com/get-docker/) (oder eine andere OCI-kompatible Container-Engine)
 - eine [JetBrains-Studentenlizenz](https://www.jetbrains.com/community/education/#students/) für [PhpStorm](https://www.jetbrains.com/phpstorm/) (empfohlen)

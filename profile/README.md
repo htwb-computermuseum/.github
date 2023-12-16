@@ -36,7 +36,7 @@ Damit man Zugriff auf diese Repositories hat, muss man Mitglied der [htwb-comput
 
 ## Wenn es Fragen gibt, einfach:
 
-* Die aktuelle [Dokumentation](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs) des Projekts lesen
+* Die aktuelle [Dokumentation](https://website-laravel-documentation-htwb-computermuseu-db731b28c21945.gitlab.io/) des Projekts lesen
 * Die [Laravel Documantation](https://laravel.com/docs/10.x/readme) lesen
 * Im Moodle sind Dokumentationen von den (meisten) vorherigen Semestern vorhanden
 * sollte die **alte** Dokumentation (vor ss2023) benötigt werden findet Ihr diese hier: [Documentation Repository](https://github.com/htwb-computermuseum/Documentation/tree/master/docs)  

@@ -17,7 +17,7 @@ Dies ist die Übersichtsseite des HTW Computermuseum Projekts. Hier findet Ihr a
 
 ## Wie kann ich starten?
 
-1. Hier findet Ihr die [Dokumentation](https://github.com/htwb-computermuseum/website-laravel/tree/master/docs)
+1. Hier findet Ihr die [Dokumentation](https://website-laravel-documentation-htwb-computermuseu-db731b28c21945.gitlab.io/)
 
    Ihr benötigst 3 Repositories zum Entwickeln:
 
